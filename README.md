@@ -6,9 +6,10 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+- <b>[Pi-hole, Unbound and Wireguard homelab](https://github.com/ShijinZ07/PiholeUnboundWireGuardHomelab)</b>
+
 - <b>[Active Directory Homelab](put link here)</b>
 
-- <b>[Pi-hole, Unbound and Wireguard homelab](https://github.com/ShijinZ07/PiholeUnboundWireGuardHomelab)</b>
 
 <h2>📄 Certifications</h2>
 
