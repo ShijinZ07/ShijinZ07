@@ -6,10 +6,13 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+<h3>IT Support Projects and Labs</h3>
+
+- <b>[Configuring Active Directory(On Premises) Within Azure](https://github.com/ShijinZ07/Configuring-Active-Directory-On-premises-within-Azure-VMs)</b>
+
+<h3>Networking Projects and Labs</h3>
+
 - <b>[Pi-hole, Unbound and Wireguard homelab](https://github.com/ShijinZ07/PiholeUnboundWireGuardHomelab)</b>
-
-- <b>[Active Directory Homelab](put link here)</b>
-
 
 <h2>📄 Certifications</h2>
 
