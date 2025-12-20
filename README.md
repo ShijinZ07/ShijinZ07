@@ -18,7 +18,7 @@
 
 - [Google IT Support Professional](put link here)
 
-- Comptia A+ Expected Feb.2026
+- Comptia Network+ Expected - In Progress
 
 <h2> 🤝 Connect with me:</h2>
 
