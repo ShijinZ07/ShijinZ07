@@ -16,7 +16,7 @@
 
 <h2>📄 Certifications</h2>
 
-- [Google IT Support Professional](put link here)
+- [Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/2WX49MAGX7HA)
 
 - Comptia Network+ Expected - In Progress
 
